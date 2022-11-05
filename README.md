@@ -6,7 +6,7 @@ Sortiri is a clean and lightweight solution for making ActiveRecord::Base object
 
 Sortiri is supported for ActiveRecord 4.2+ on Ruby 2.6.0 and later.
 
-In your Gemfile, for the last officially released gem:
+In your Gemfile, for the last officially released Gem:
 
 ```ruby
 gem 'sortiri'
